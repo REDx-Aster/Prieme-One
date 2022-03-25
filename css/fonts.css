@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'PTSans-Regular';
+  src: url('../fonts/PT_Sans/PTSans-Regular.eot');
+  src: url('../fonts/PT_Sans/PTSans-Regular.eot?#iefix')
+      format('embedded-opentype'),
+    url('../fonts/PT_Sans/PTSans-Regular.woff') format('woff'),
+    url('../fonts/PT_Sans/PTSans-Regular.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: 'BebasNeueRegular';
+  src: url('../fonts/Bebas_Neue/BebasNeueRegular.eot');
+  src: url('../fonts/Bebas_Neue/BebasNeueRegular.eot?#iefix')
+      format('embedded-opentype'),
+    url('../fonts/Bebas_Neue/BebasNeueRegular.woff') format('woff'),
+    url('../fonts/Bebas_Neue/BebasNeueRegular.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: 'AkzidenzGroteskBQCondensed';
+  src: url('../fonts/Akzidenz_Grotesk/AkzidenzGroteskBQCondensed.eot');
+  src: url('../fonts/Akzidenz_Grotesk/AkzidenzGroteskBQCondensed.eot?#iefix')
+      format('embedded-opentype'),
+    url('../fonts/Akzidenz_Grotesk/AkzidenzGroteskBQCondensed.woff')
+      format('woff'),
+    url('../fonts/Akzidenz_Grotesk/AkzidenzGroteskBQCondensed.ttf')
+      format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
